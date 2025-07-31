@@ -3,7 +3,7 @@
 ### About This Project
 This project has been redesigned and adapted from educational content.
 
-**Note:** Some files (db.sqlite3, etc.) have been removed from the original educational material.
+**Note:** Some files (db.sqlite3, etc.) have been removed from the repo.
 
 ### Overview
 <p align="center">
